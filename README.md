@@ -21,6 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+Name:Revathi.S
+Reg No:212224230228
 
 ![Image](https://github.com/user-attachments/assets/6f51ef07-5810-44aa-b9f6-2534dc8c49cf)
 
